@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Heap (Priority Queue)
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0001-two-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
