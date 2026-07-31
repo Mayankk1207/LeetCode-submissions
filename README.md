@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Math
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Number Theory
 |  |
 | ------- |
