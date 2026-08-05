@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2396-strictly-palindromic-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Design
@@ -135,4 +139,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
