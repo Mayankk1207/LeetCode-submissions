@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3731-find-missing-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
