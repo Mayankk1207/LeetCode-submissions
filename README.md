@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
