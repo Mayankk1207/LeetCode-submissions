@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
 | [0709-to-lower-case](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
 ## Two Pointers
 |  |
 | ------- |
