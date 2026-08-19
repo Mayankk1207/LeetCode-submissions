@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0011-container-with-most-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
@@ -219,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
