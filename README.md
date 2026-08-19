@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
+| [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0901-online-stock-span) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
+| [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0069-sqrtx) |
+## Ordered Set
+|  |
+| ------- |
+| [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 <!---LeetCode Topics End-->
