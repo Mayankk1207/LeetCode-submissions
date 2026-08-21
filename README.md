@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0622-design-circular-queue) |
 | [0658-find-k-closest-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0622-design-circular-queue) |
 | [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0901-online-stock-span) |
 ## Data Stream
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0206-reverse-linked-list) |
+| [0622-design-circular-queue](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0622-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -228,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
