@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2396-strictly-palindromic-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3945-digit-frequency-score](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3945-digit-frequency-score) |
 ## Number Theory
 |  |
