@@ -254,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
