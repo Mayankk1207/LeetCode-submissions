@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
