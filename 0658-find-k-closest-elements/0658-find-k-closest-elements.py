@@ -6,14 +6,10 @@ class Solution(object):
         :type x: int
         :rtype: List[int]
         """
-
-        l = 0
-        r = len(arr) - 1
-
-        while r - l + 1 > k:
-            if abs(arr[l] - x) <= abs(arr[r] - x):
-                r -= 1
+        a,b = 0,len(arr)-1
+        while b-a+1>k:
+            if abs(arr[a]-x) > abs(arr[b]-x):
+                a+=1
             else:
-                l += 1
-
-        return arr[l:r+1]
+                b-=1
+        return arr[a:b+1]
