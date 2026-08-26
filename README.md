@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0658-find-k-closest-elements) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Newton's Method
 |  |
 | ------- |
