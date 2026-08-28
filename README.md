@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Monotonic Stack
 |  |
