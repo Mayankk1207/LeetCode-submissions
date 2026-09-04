@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Monotonic Stack
 |  |
