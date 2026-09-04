@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0176-second-highest-salary) |
+| [0595-big-countries](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0595-big-countries) |
 ## Monotonic Queue
 |  |
 | ------- |
