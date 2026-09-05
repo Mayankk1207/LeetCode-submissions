@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0056-merge-intervals) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -307,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0451-sort-characters-by-frequency) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
