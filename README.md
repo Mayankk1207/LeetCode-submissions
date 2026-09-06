@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0056-merge-intervals) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0260-single-number-iii) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
