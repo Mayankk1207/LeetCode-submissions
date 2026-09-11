@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2396-strictly-palindromic-number) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Quickselect
 |  |
 | ------- |
