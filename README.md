@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0451-sort-characters-by-frequency) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
+| [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0409-longest-palindrome) |
 | [0860-lemonade-change](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
