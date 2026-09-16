@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0367-valid-perfect-square) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2348-number-of-zero-filled-subarrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2396-strictly-palindromic-number) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3345-smallest-divisible-digit-product-i) |
