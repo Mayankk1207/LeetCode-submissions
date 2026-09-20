@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3498-reverse-degree-of-a-string) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3925-concatenate-array-with-reverse) |
 ## Brainteaser
 |  |
