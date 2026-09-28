@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3467-transform-array-by-parity](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3668-restore-finishing-order) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3467-transform-array-by-parity](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3467-transform-array-by-parity](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
 |  |
