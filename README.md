@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0709-to-lower-case) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0901-online-stock-span) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0409-longest-palindrome) |
+| [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0062-unique-paths) |
+| [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
 | ------- |
@@ -366,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
