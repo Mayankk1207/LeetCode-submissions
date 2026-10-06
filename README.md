@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
