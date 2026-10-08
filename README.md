@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0709-to-lower-case) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0984-string-without-aaa-or-bbb) |
+| [1021-remove-outermost-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1189-maximum-number-of-balloons) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0853-car-fleet) |
 | [0895-maximum-frequency-stack](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -373,4 +375,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
