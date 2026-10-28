@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3925-concatenate-array-with-reverse) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0074-search-a-2d-matrix) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -424,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
