@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0394-decode-string) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0062-unique-paths) |
 | [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1021-remove-outermost-parentheses) |
 ## Matrix
