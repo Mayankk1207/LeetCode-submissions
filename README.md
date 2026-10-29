@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0981-time-based-key-value-store) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0904-fruit-into-baskets](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Newton's Method
@@ -384,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3904-smallest-stable-index-ii) |
 ## Dynamic Programming
