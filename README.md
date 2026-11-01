@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0525-contiguous-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0973-k-closest-points-to-origin) |
 | [1512-number-of-good-pairs](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
