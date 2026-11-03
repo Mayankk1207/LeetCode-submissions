@@ -6,7 +6,7 @@ public:
         int maxm = *max_element(nums.begin(),nums.end());
         for (int x: nums){
             ans += maxm - x;
-        };
+        }
 
         return ans;
     }
