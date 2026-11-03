@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2799-count-complete-subarrays-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3467-transform-array-by-parity](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3467-transform-array-by-parity) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2396-strictly-palindromic-number) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/3794-reverse-string-prefix) |
 ## Simulation
 |  |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
