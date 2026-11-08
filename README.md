@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0496-next-greater-element-i](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0496-next-greater-element-i) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0860-lemonade-change) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0984-string-without-aaa-or-bbb) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0875-koko-eating-bananas](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -395,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0930-binary-subarrays-with-sum) |
@@ -408,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0062-unique-paths) |
+| [0410-split-array-largest-sum](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/0678-valid-parenthesis-string) |
 ## Database
 |  |
