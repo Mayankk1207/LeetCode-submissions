@@ -5,16 +5,21 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        zeros = 0
-        i = 0
+        z = 0 
+        i = 0 
         ans = float("-inf")
+
         for j in range(len(nums)):
             if nums[j] == 0:
-                zeros +=1
-            while zeros > k:
+                z+=1
+            while z > k:
                 if nums[i] == 0:
-                    zeros -=1
+                    z -=1
                 i +=1
-            ans = max(ans, j-i+1)
+            ans = max(ans,j-i+1)
         return ans 
+            
+            
+
+
 
