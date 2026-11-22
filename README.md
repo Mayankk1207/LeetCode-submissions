@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2000-reverse-prefix-of-word](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2000-reverse-prefix-of-word) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2418-sort-the-people](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2418-sort-the-people) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/Mayankk1207/LeetCode-submissions/tree/master/2697-lexicographically-smallest-palindrome) |
